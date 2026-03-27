@@ -19,10 +19,6 @@ I build high-performance, enterprise-grade web applications with a focus on seam
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=02pankaj&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Pankaj's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02pankaj&layout=compact&theme=radical&display_format=v2" alt="Top Languages" />
-</p>
+### 📈 Activity Metrics
+![Stars](https://img.shields.io/github/stars/02pankaj?style=for-the-badge&color=yellow)
+![Commits](https://img.shields.io/github/commit-activity/m/02pankaj/cbt-master?style=for-the-badge&color=green)
