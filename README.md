@@ -9,7 +9,7 @@ I build high-performance, enterprise-grade web applications with a focus on seam
 - 📫 **Reach me at:** thakurpankaj1002@gmail.com
 
 ---
-## 🧠 Technical Challenges & Solutions
+## 🧠 Technical Challenges & Solutions.
 
 ### 1. Real-Time State Management for Exams
 **Challenge:** Ensuring the exam timer and question state remained synced even if the user accidentally refreshed the browser.
